@@ -1,0 +1,32 @@
+- name: Matteo Selci
+  photo: bio-photo.jpg
+  duration: Co-advised MSc student in Marine Biology from 2018 - 2019
+  info:
+  email:
+  number_educ: 1
+  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche
+  education2: BSc Biology, Polytechnic University of Marche
+  education3:
+  education4:
+
+- name: Marco Basili
+  photo: bio-photo.jpg
+  duration: Co-advised MSc student in Marine Biology from 2018 - 2019
+  info:
+  email:
+  number_educ: 1
+  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche
+  education2: BSc Biology, Polytechnic University of Marche
+  education3:
+  education4:
+
+- name: Maria Magliulo
+  photo: bio-photo.jpg
+  duration: Co-advised MSc student in Marine Biology from 2017 - 2018
+  info:
+  email:
+  number_educ: 1
+  education1: MSc Marine Biology, University of Naples "Federico II"
+  education2: BSc Biology, University of Naples "Federico II"
+  education3:
+  education4:

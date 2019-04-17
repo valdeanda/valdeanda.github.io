@@ -1,0 +1,13 @@
+- name: Alessandra Ferrillo
+  photo: af.jpg
+  info: Master student
+  email:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Martina Cascone
+  photo: mc.jpg
+  info: Master student
+  email:
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy

@@ -1,0 +1,84 @@
+---
+title: "Giovannelli Lab - Home"
+layout: homelay
+excerpt: "Giovannelli Lab at University of Naples 'Federico II'"
+sitemap: false
+permalink: /
+---
+
+I am an Assistant Professor at the [Department of Biology](http://www.) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html) and the co-evolution of the Geosphere and the Biosphere.
+
+
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
+    <!-- Menu -->
+    <ol class="carousel-indicators">
+        <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel" data-slide-to="1"></li>
+        <li data-target="#carousel" data-slide-to="2"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>
+        <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>                
+    </ol>
+
+    <!-- Items -->
+    <div class="carousel-inner" markdown="0">
+
+        <div class="item active">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/2014_alvin_deck.jpg" alt="Slide 1" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/s_riftiae.jpg" alt="Slide 2" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/northern_light_2019.jpg" alt="Slide 3" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/arenal_2017.jpg" alt="Slide 4" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subductcr_sulfur.jpg" alt="Slide 5" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/yellowstone_2015.jpg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/strytan_2017.jpg" alt="Slide 7" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/subductcr_drone.jpg" alt="Slide 8" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/milos_2012.jpg" alt="Slide 9" />
+        </div>               
+    </div>
+  <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
+
+To this end, we combine classic microbiology techniques with data from comparative genomic, phylogenetic, environmental surveys and computational approaches to reconstruct geo-bio interactions. The majority of our work is carried out in [extreme environments](research), ranging from deep-sea and shallow-water hydrothermal vents, hot springs and volcanoes, the subsurface and Antarctica.
+
+Check out our [reserach](research), our latest [pubblications](publications) or our [interactive map](fieldsites) showing our field sites. Head to the [team section](team) to read more about myself and the rest of the fantastic people I work with. Also, don't forget to take a look at the [picture gallery](pictures) or our [outreach](outreach) activities and appearance in the [media](media).
+
+We are located at the  [University of Naples "Federico II"](http://www.unina.it), the oldest public non-sectarian university in the world [founded in 1224](wikipedia/federicoII). We also interact with a number of world leading institutions, including [Rutgers University](), the [Geophisical Laboratory at CIW](), the [Earth-Life Science Institute](www.elsi.jp) and the Italian [CNR-IRBIM]().
+
+ **We are  looking for passionate new students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+
+
+We are grateful for past and present funding from the [Deep Carbon Observatory](www.deepcarbon.net), [NASA](www.nasa.gov), the [C-DEBI](c-debi.org) and the Italian Antarctic Program [PNRA](www.pnra.it).
+
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/pnra.jpeg" style="width: 90px">
+</figure>
