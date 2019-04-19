@@ -9,9 +9,9 @@ permalink: /publications/
 
 # Publications
 
-## Highlights
+Jump at the bottom of the page to see a [full list of publications](#full-list), our [Preprints](#preprints), [Book chapters](#books-and-book-chapters) and [Patents](#patents). A complete list is also available in my [Google Scholar](https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en)) profile.
 
-(For a full list see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=eYxwQpkAAAAJ&hl=en))
+## Highlights
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -55,6 +55,28 @@ permalink: /publications/
 
 {% for publi in site.data.publist %}
 
-  {{ publi.authors }}. {{ publi.year }}. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em>
+  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em>
+
+{% endfor %}
+
+## Preprints
+{% for publi in site.data.preprintlist %}
+
+  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
+
+{% endfor %}
+
+## Books and book chapters
+
+{% for publi in site.data.booklist %}
+
+  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
+
+{% endfor %}
+
+## Patents
+{% for publi in site.data.patentlist %}
+
+  <strong>{{ publi.year }}</strong>. {{ publi.title }}. {{ publi.authors }}. <em>{{ publi.link.display }}</em>
 
 {% endfor %}

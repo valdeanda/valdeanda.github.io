@@ -1,13 +1,23 @@
 - name: Alessandra Ferrillo
   photo: af.jpg
-  info: Master student
-  email:
+  role: Master student
+  info: Shallow-water hydrothermal vents microbial diversity
+  collab:
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
 - name: Martina Cascone
   photo: mc.jpg
-  info: Master student
-  email:
+  role: Master student
+  info: Antartic water column microbial diversity
+  collab: Prof. Cordone, UNINA
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Michele Intoccia
+  photo: mi.jpg
+  role: Master student
+  info: InterReg WaterCare project
+  collab: Dr. Elena Manini, CNR-IRBIM
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
