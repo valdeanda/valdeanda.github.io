@@ -9,7 +9,7 @@ permalink: /
 I am an Assistant Professor at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](emergence) and the [co-evolution of the Geosphere and the Biosphere](coevolution).
 
 
-<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="2000" data-pause="hover" >
+<div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
