@@ -169,5 +169,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 
 ## Visitors
 <ul style="list-style-type: none">
+    <li>Joy Buongiorno, Carnegie Institution of Washington (USA), Jan-Feb 2019</li>
     <li>Matteo Selci, Spring 2019</li>
 </ul>
