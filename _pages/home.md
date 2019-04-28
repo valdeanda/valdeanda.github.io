@@ -1,7 +1,7 @@
 ---
-title: "Giovannelli Lab - Home"
+title: "Giovannelli Lab website - Home"
 layout: homelay
-excerpt: "Giovannelli Lab at University of Naples 'Federico II'"
+excerpt: "Website of the Giovannelli Lab at University of Naples 'Federico II'. Our group aims to aims to explore and understand the emergence and evolution of life and the co-evolution of the Geosphere and the Biosphere, focusing mainly on the microbiology of extreme environments"
 sitemap: false
 permalink: /
 ---
