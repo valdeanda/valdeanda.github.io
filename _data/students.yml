@@ -9,8 +9,16 @@
 - name: Martina Cascone
   photo: mc.jpg
   role: Master student
+  info: Identification of new antimicrobial compounds from extremophiles
+  collab: Prof. Angelina Cordone, UNINA
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Rosaria Capuozzo
+  photo: rc.jpg
+  role: Master student
   info: Antartic water column microbial diversity
-  collab: Prof. Cordone, UNINA
+  collab: Prof. Angelina Cordone, UNINA
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
