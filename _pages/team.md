@@ -170,7 +170,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 ## Undergraduate Alumni
 <ul style="list-style-type: none">
     <li>Alessia Masella, UNINA, Summer 2019</li>
-    <li>Angelica , Summer 2019</li>
+    <li>Angelica De  Rosa, UNINA, Summer 2019</li>
 </ul>
 
 ## Visitors
