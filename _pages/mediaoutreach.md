@@ -33,6 +33,12 @@ Here our efforts to explain to the public and other scientist what we do, either
 
 # Media coverage
 
+**2019** The new book from [Robert Hazen](), the Director of the Deep Carbon Observatory, entitled Symphony in C (buy it on amazaon here, it's a fantastic read) features a picture of myself and [Karen Lloyd (UTK)]() while we sample a hotsping in Costa rica during the 2017 field campaign. The same picture appeared on the book review published in [Science]()
+
+**2019** A great post appeared on the website [manyworlds.org]() highlights our recent Nature publication in the context of other publications discussing their role in changing our view of geo-bio interaction and the search of life on other planets
+
+**2019** Our paper on a new sink of carbon in volcanic arc published in [Nature]({{ site.url }}/publications.html) was picked up by a number of International News sites and newspapers including the online science blogs [phys.org](), [manyworlds.org](), the international news websites XXXXXXXX, and the newspapers [Gazzetta del Mezzoggiorno](), [La Repubblica](),
+
 **2018** My December 2017 interview with New York Times science writer [Carl Zimmer](https://carlzimmer.com/) is finally online. Part of the “what is life?” series at the Caveat, NYC, USA. Listen to it at “[Warm Ponds Or Hellish Vents–Where Did Life Begin?](http://whatislife.libsyn.com/episode-7-donato-giovannelli-warm-ponds-or-hellish-ventswhere-did-life-begin)“
 
 **2018** A [recording of a Facebook live event](https://www.facebook.com/OxSparks/videos/1887732187975601/?__xts__[0]=68.ARCpLfYE9ANDIuaQF0cODoPuIRpDgUb5TcH1b6uTowQwadKmFI2_xTqHWKZYAuM-glQOhTDtfxJbX3KEWFGFys4TuydtuMvnBztz2S8_36qKiXaIRYp_shTrMQO_CEEE_Gl7sjYANwRFpN2lknc1DJBv7sNfRXlX2_3veUEY8W-jIJrzi4xxKlmw0SNcTJ3kbtwg0p8mxYk&__tn__=-R) to speak about our ongoing DCO-supported work in Costa Rica. The interview, organized by University of Oxford Sparks is together with Peter Barry (WHOI, USA) and Karen lloyd (UT, USA)
