@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [lab visitors](#lab-visitors). Read [more about me here]({{ site.url }}/myself.html).
+Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alumni),  [undergraduate alumni](#undergraduate-alumni), [high school alumni](#high-school-alumni) [lab visitors](#lab-visitors). Read [more about me here]({{ site.url }}/myself.html).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -171,6 +171,12 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 <ul style="list-style-type: none">
     <li>Alessia Masella, UNINA, Summer 2019</li>
     <li>Angelica De  Rosa, UNINA, Summer 2019</li>
+</ul>
+
+## High School Alumni
+<ul style="list-style-type: none">
+    <li>Francesca Cafiero, Liceo Statale "Fonseca", Napoli, Summer 2019</li>
+    <li>Domenico Mazza, Istituto Istruzione Superiore "Giancarlo Siani", Napoli, summer 2019</li>
 </ul>
 
 ## Visitors
