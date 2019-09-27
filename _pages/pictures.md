@@ -26,23 +26,3 @@ Here some videos from the lab and the field! More are available on our [youtube 
 #### Pictures
 ##### From the Field
 {% lightbox images/piccpic/field/2006 - Diving - Singapore.jpg --thumb="images/piccpic/field/2006 - Diving - Singapore.jpg " --data="appfoundry_image_set" --title="The AppFoundry Logo" --alt="This is our logo" --img-style="max-width:80%;" --class="yourclass" %}
-<br/>
-<br/>
-
-##### From the Lab
-{% include image-gallery.html folder="/images/picpic/laboratory" %}
-<br/>
-<br/>
-
-##### Meetings and friends
-{% include image-gallery.html folder="/images/picpic/meetings" %}
-<br/>
-<br/>
-
-##### Random and fun
-{% include image-gallery.html folder="/images/picpic/photography" %}
-<br/>
-<br/>
-
-<script src="/js/jquery.min.js"></script>
-{% include lightbox.html %}
