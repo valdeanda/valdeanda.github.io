@@ -3,7 +3,7 @@ title: "Giovannelli Lab - About me"
 layout: textlay
 excerpt: "Giovannelli Lab -- About me"
 sitemap: false
-permalink: /myself.html
+permalink: /dg_bio.html
 ---
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/donato4ne.jpg){: style="width: 100%; float: center; border: 10px"}

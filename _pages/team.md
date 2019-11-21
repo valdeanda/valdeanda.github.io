@@ -25,7 +25,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
-  <h4><a href=" {{ site.url }}/myself.html">{{ member.name }}</a></h4>
+  <h4><a href=" {{ site.url }}/{{ member.bio }}">{{ member.name }}</a></h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <ul style="overflow: hidden">
 

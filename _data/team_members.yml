@@ -1,5 +1,6 @@
 - name: Donato Giovannelli
   photo: dg.jpg
+  bio: dg_bio.html
   info: Assistant Professor (RTDb), started Dec 2018
   email: donato.giovannelli@unina.it
   number_educ: 5
@@ -11,6 +12,7 @@
 
 - name: Angelina Cordone
   photo: bio.jpg
+  bio:
   info: Research Associate (RTI), started  Nov 2008
   email: angelina.cordone@unina.it
   number_educ: 3
