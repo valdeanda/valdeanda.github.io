@@ -170,7 +170,13 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 ## Undergraduate Alumni
 <ul style="list-style-type: none">
     <li>Alessia Masella, UNINA, Summer 2019</li>
-    <li>Angelica De  Rosa, UNINA, Summer 2019</li>
+    <li>Angelica De Rosa, UNINA, Summer 2019</li>
+    <li>Simone De Meo, UNINA, Fall 2019</li>
+    <li>Raffaele Nocera, UNINA, Fall 2019</li>
+    <li>Antonio Nappo, UNINA, Fall 2019</li>
+    <li>Andrea Campanile, UNINA, Fall 2019</li>
+    <li>Mariavittoria Brandi, UNINA, Fall 2019</li>
+    <li>Nunzia Nappi, UNINA, Fall 2019</li>
 </ul>
 
 ## High School Alumni
@@ -181,6 +187,7 @@ Jump to [staff](#staff), [graduate students](#graduate-students), [alumni](#alum
 
 ## Visitors
 <ul style="list-style-type: none">
-    <li>Joy Buongiorno, Carnegie Institution of Washington (USA), Jan-Feb 2019</li>
-    <li>Matteo Selci, Spring 2019</li>
+    <li>Costantino Vetriani, visiting professor, Rutgers University, Fall 2019</li>
+    <li>Matteo Selci, visiting student, Spring 2019</li>
+    <li>Joy Buongiorno, visiting postdoc, Carnegie Institution of Washington (USA), Jan-Feb 2019</li>
 </ul>

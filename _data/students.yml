@@ -1,8 +1,17 @@
+- name: Matteo Selci
+  photo: ms.jpg
+  role: PhD student
+  info: Diversity of microbial communities in geothermal environments
+  collab: Dr. Maarten de Moor, OVSICORI
+  number_educ: 2
+  education1: MSc Marine Biology and Ecology, Polytechnic University of Marche
+  education2: BSc Biology, Polytechnic University of Marche
+
 - name: Alessandra Ferrillo
   photo: af.jpg
   role: Master student
   info: Shallow-water hydrothermal vents microbial diversity
-  collab:
+  collab: Prof. Costantino Vetriani, Rutgers University
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
 
@@ -35,5 +44,13 @@
   role: Master student
   info: Microbiome of by catch fish in the Lesina Lagoon
   collab: Dr. Elena Manini, CNR-IRBIM
+  number_educ: 1
+  education1: BSc Biology, University of Naples "Federico II", Naples, Italy
+
+- name: Alessandro Coppola
+  photo: ac.jpg
+  role: Master student
+  info: Mycobacteria molecular biology
+  collab: Prof. Angelina Cordone, UNINA
   number_educ: 1
   education1: BSc Biology, University of Naples "Federico II", Naples, Italy
