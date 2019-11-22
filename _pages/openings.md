@@ -1,5 +1,5 @@
 ---
-title: "Giovannelli Lab - Vacancies"
+title: "Valerie De Anda"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
