@@ -1,12 +1,13 @@
 ---
-title: "Giovannelli Lab website - Home"
+title: "Valerie De Anda - Home"
 layout: homelay
-excerpt: "Website of the Giovannelli Lab at University of Naples 'Federico II'. Our group aims to aims to explore and understand the emergence and evolution of life and the co-evolution of the Geosphere and the Biosphere, focusing mainly on the microbiology of extreme environments"
+excerpt: "Website of the Valerie De Andas"
 sitemap: false
 permalink: /
 ---
 
-I am an Assistant Professor at the [Department of Biology](http://www.dipartimentodibiologia.unina.it) of the [University of Naples "Federico II"](http://www.unina.it), in Italy. My group aims to explore and understand [the emergence and evolution of life](emergence) and the [co-evolution of the Geosphere and the Biosphere](coevolution).
+
+Im a Postdoctoral research associate at the [Marine Science Institute UTMSI](https://utmsi.utexas.edu/), working in [Baker's lab](https://sites.utexas.edu/baker-lab/author/bb34996/), using omics techniques to understand the microbial ecology of deep-sea and extremophile microbes
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="3000" data-pause="hover" >
@@ -65,24 +66,6 @@ I am an Assistant Professor at the [Department of Biology](http://www.dipartimen
 </div>
 
 
-To this end in my lab we combine classic microbiology techniques with data from comparative genomic, phylogenetic, environmental surveys and computational approaches to reconstruct geo-bio interactions. The majority of our work is carried out in [extreme environments](research), ranging from deep-sea and shallow-water hydrothermal vents, hot springs and volcanoes, the subsurface and Antarctica.
 
-Check out our [reserach](research), our latest [pubblications](publications) or our [interactive map](fieldsites) showing our field sites. Head to the [team section](team) to read [more about myself]({{ site.url }}/myself.html) and the rest of the fantastic people I work with. Also, don't forget to take a look at the [picture gallery](pictures) or our [outreach](mediaoutreach#outreach-activities) activities and appearance in the [media](mediaoutreach#media-coverage). Take a look at the yearly report I post about my activities in [the Year in Numbers section]({{ site.url }}/yearinnumbers.html).
 
-We are located at the  [University of Naples "Federico II"](http://www.unina.it), the oldest public non-sectarian university in the world [founded in 1224](wikipedia/federicoII). We also interact with a number of world leading institutions, including [Rutgers University](), the [Geophisical Laboratory at CIW](), the [Earth-Life Science Institute](www.elsi.jp) and the Italian [CNR-IRBIM]().
 
-<br/>
-
- **We are always looking for passionate new people to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
-<br/>
-
-We are grateful for past and present funding from the [Deep Carbon Observatory](www.deepcarbon.net), [NASA](www.nasa.gov), the [C-DEBI](c-debi.org), the [National Science Foundation](www.nsf.gov) and the [ELSI Origins Network](http://eon.elsi.jp/).
-
-<figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/DCO.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/C-DEBI.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NASA.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/NSF_logo.png" style="width: 90px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/EON.jpeg" style="width: 130px">
-</figure>
