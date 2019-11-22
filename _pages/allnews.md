@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Giovannelli Lab at University of Naples 'Federico II'"
+excerpt: "Valerie de Anda Personal Website'"
 sitemap: false
 permalink: /allnews.html
 ---
