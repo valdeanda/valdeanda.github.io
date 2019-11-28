@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my personal website - Home"
+title: "Valerie De Anda - Home"
 layout: homelay
 excerpt: "Website of the Valerie De Anda"
 sitemap: false
