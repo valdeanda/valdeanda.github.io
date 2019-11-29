@@ -47,4 +47,25 @@ Jump at the bottom of the page to see a [full list of publications](#full-list),
 
 <p> &nbsp; </p>
 
+## Full List
 
+{% for publi in site.data.publist %}
+
+  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em><a href="{{ publi.link.url }}">{{ publi.link.display }}. {{ publi.doi }}</a></em>
+
+{% endfor %}
+
+## Preprints
+{% for publi in site.data.preprintlist %}
+
+  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
+
+{% endfor %}
+
+## Books and book chapters
+
+{% for publi in site.data.booklist %}
+
+  {{ publi.authors }}. <strong>{{ publi.year }}</strong>. {{ publi.title }}. <em>{{ publi.link.display }}</em>
+
+{% endfor %}
