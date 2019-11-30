@@ -39,5 +39,10 @@ The main goal dissertation was to identify microbial community patterns that can
 Assessing the community-wide implications of environmental perturbation and the shifts in microbial network interactions is a critical step towards improving knowledge of the response of microorganisms to anthropogenic and climate-linked change. By implementing  network inference, and the distribution of network motifs in other microbial communities, we can identify correlations between microbial community dynamics and ecosystem processes that govern their functional stability. 
 
 
+---
+[**Undergraduate reseach**(2011-2012)](http://oreon.dgbiblio.unam.mx/F/ER7GDVCUSESCA57BMBKUEX9SA8GH8CXC28QFSTLC27FX1YYE2R-10767?func=full-set-set&set_number=023912&set_entry=000002&format=999): Department of Cellular Engineering and Biocatalysis. Biotechnology Institute. National Autonomous University of Mexico. Research Advisor: [Lorenzo Segovia](http://www.ibt.unam.mx/server/PRG.base?tipo:doc,dir:PRG.curriculum,par:lorenzo)
+
+I analyzed the possibility of obtaining active variants from a non-active chimera product of recombination between domains of the enzymes shikimate dehydrogenase (SDH) and quinate/shikimate dehydrogenase (YdiB) of E.coli, by directed evolution using random mutagenesis. This technique is a very powerful tool to elucidate structure-function relationships of proteins, in addition allows to improve or alter their characteristics. During my bachelor thesis I used mutagenic PCR by modifying the reaction modifications to obtain different rates of mutagenesis. Based on previus studies of evolution directed, we use 3 rates of mutagenesis. The first corresponds to approximately 2 mutations per 1000 base pairs. The second 3.5/1000 bp and the last generates 8.1 mutations per 1000 bp. The mutagenic PCR products were introduced into the pT4 expression vector and the resulting banks were characterized by complementary assays in M9 minimum medium of a strain lacking SDH activity.
+
 <br />
 <br />
