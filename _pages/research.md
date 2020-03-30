@@ -10,7 +10,7 @@ permalink: /research/
 
 ## Current 
 
-<span style="color:blue">## Reconstructing microbial genomes to understand the metabolic potential of marine sediments text</span>
+<span style="color:#339CFF">**Reconstructing microbial genomes to understand the metabolic potential of marine sediments** text</span>
 
 
 My current postdoctoral research efforts focus on expanding the tree of life by identifying unknown lineages of microorganisms from extreme environments (e.g., hydrothermal vent systems and hot springs) and predicting their potential role in the environment using MEBS and other state-of-the-art genomic techniques. Filling the gaps in the tree of life not only provides a better understanding of the biogeochemistry and evolution of life on the planet, but can also help us to understand how humans and other life forms on Earth (including those we are yet to discover) can withstand anthropogenic climate change.  
