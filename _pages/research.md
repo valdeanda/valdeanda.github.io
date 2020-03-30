@@ -26,7 +26,7 @@ Currently, the MEBS software has a built-in function that allows users to accura
 
 ### Doctoral research
 
-### Developing  in silico approaches to evaluate the metabolic machinery and network  interactions of microbial communities in response to environmental change**
+### Developing  in silico approaches to evaluate the metabolic machinery and network  interactions of microbial communities in response to environmental change
 
 Changes in the environment caused by human development are severely impacting ecosystems all over the world and yet, the associated impacts on microbial communities are often overlooked. Evaluating the role of microbial communities is critical to understand how perturbations in the environment alter essential biogeochemical reactions that support life on our planet. However, microbial communities are rarely included in studies on biogeochemistry, ecology, climate change, and land-use, and are therefore underrepresented in policy that drives conservation and management decisions. While it is recognized that metabolite exchanges between microbial communities control ecological interactions framing ecosystem diversity and stability, systematic methods to quantify microbial levels of inter-species competition and cooperation are lacking to date. Moreover, it is unclear whether anthropogenic perturbations influence microbial community dynamics and if so, what are the patterns in response to disturbance and is it possible to predict them using computational tools?
 
