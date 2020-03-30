@@ -23,9 +23,9 @@ Currently, the MEBS software has a built-in function that allows users to accura
 
 ---
 
-## Previous 
+### Previous 
 
-### Doctoral research
+#### Doctoral research
 
 <span style="color:#339CFF">**Developin *in silico* approaches to evaluate the metabolic machinery and network interactions of microbial communities in response to environmental change** </span>
 
