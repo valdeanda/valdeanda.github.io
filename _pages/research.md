@@ -6,9 +6,9 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research and Projects
+## Research and Projects
 
-## Current 
+### Current 
 
 <span style="color:#339CFF">**Reconstructing microbial genomes to understand the metabolic potential of marine sediments** </span>
 
