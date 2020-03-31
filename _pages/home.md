@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-**Welcome to my site*
+**Welcome to my site**
 
 Im a Postdoctoral research associate at the [Marine Science Institute UTMSI](https://utmsi.utexas.edu/), working in [Baker's lab](https://sites.utexas.edu/baker-lab/author/bb34996/), using omics techniques to understand the microbial ecology of deep-sea and extremophile microbes
 
